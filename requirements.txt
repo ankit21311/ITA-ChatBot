@@ -1,0 +1,14 @@
+chromadb
+ctransformers
+InstructorEmbedding
+langchain
+langchain-community
+llama-cpp-python
+librosa
+pypdfium2
+pyyaml
+sentence-transformers==2.2.2
+streamlit
+streamlit-mic-recorder
+transformers
+torch
